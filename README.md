@@ -38,9 +38,9 @@ We've been working on a lot of changes and ROCK 2.2 is here! You can read the fu
   - Elasticsearch SQL
 
 ##### Upgrades
-- Elastic Stack is updated to 6.42
+- Elastic Stack is updated to 6.4.2
 - Elastic dashboards, mappings, and Logstash config moved to module-like construct
-- Suricata is updated to 4.x
+- Suricata is updated to 4.0.5
 - Bro is updated to 2.5.4
 
 ## Video Guides
